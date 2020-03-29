@@ -1,0 +1,19 @@
+1. Download Anaconda from https://www.anaconda.com/distribution/
+
+2. Check the version to be installed
+
+ > processor
+ > Python Version
+
+3. Install : Follow all the defaults
+
+4. Open the notebook
+
+ > Select Anaconda Navigator
+ > Click on launch Jupyter notebook
+ > navigate to your folder
+ > click new > Python 3
+
+5. Write the first code
+
+ > print("Hello World")
